@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="gatling-maven-plugin-demo-scala" />
+    <profile name="Maven 1" modules="Relatory_mission2_Gatling,gatling-maven-plugin-demo-scala" />
   </component>
 </project>

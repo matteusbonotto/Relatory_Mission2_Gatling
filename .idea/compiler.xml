@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gatling-maven-plugin-demo-scala" />
+        <module name="Relatorio_Missao" />
+        <module name="Relatory_mission2_Gatling" />
       </profile>
     </annotationProcessing>
   </component>
