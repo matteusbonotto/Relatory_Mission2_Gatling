@@ -1,5 +1,5 @@
 //##############################################################################//
-//    Script 04//                                                               //
+//    Script 04                                                                 //
 //    Deverão ser feitos 4 scripts para teste, utilizar o package de config com //
 //    as informações comuns a todos, os 4 scripts são os seguintes:             //
 //  * Adicionar computadores a página, deverá ser utilizado um feeder do tipo   //
