@@ -41,7 +41,4 @@ class POST_Computer extends Simulation {
     .assertions(
       details("post_computers").successfulRequests.percent.gte(95),
       details("post_computers").responseTime.max.is(5000))
-
-
-
 }
