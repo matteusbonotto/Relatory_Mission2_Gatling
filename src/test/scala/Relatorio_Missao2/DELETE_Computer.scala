@@ -1,5 +1,5 @@
 //##############################################################################//
-//    Script 01//                                                               //
+//    Script 01                                                                 //
 //    Deverão ser feitos 4 scripts para teste, utilizar o package de config com //
 //    as informações comuns a todos, os 4 scripts são os seguintes:             //
 //  * Selecionar um computador da lista e deletar ele, não é necessário         //
