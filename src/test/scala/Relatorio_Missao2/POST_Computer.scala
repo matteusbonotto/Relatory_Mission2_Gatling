@@ -35,11 +35,13 @@ class POST_Computer extends Simulation {
 
   //Definição do cenario de simulação
   setUp(
-    scn.inject(constantUsersPerSec(1).during(10.seconds))
-      .protocols(httpProtocol)).maxDuration(5.seconds)
+    scn.inject(constantUsersPerSec(1).during(10.seconds)))
 
     //Asserts
     .assertions(
-      details("post_computers").successfulRequests.percent.gte(95))
+      details("post_computers").successfulRequests.percent.gte(95),
+      details("post_computers").responseTime.max.is(5000))
+
+
 
 }
